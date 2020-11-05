@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+.wrapper {
+    margin: auto;
+    margin-top: 5vw;
+    text-align: left;
+    padding-left: 2vw;;
+    padding-bottom: 2vw;
+    width: 30vw;
+    border: 1px solid black;
+}
+h1 {
+    font-size: 3vw;
+}
+.form {
+    font-size: 2vw;
+    margin-top: 8vw;
+}

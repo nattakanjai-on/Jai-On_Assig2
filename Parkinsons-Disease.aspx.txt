@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>News Medical Parkinsons Disease News Feed</title>
+    <description>Latest Parkinsons Disease News and Research</description>
+    <link>https://www.news-medical.net/</link>
+    <language>en-GB</language>
+    <item>
+      <title>New process converts crustacean shells and wood waste into nutritional supplements</title>
+      <description>The shells of crustaceans and wood waste such as branches pruned from trees usually end up in landfills. These waste materials are given a new lease of life to become nutritional supplements and medicine, with the help of a novel process developed by researchers from the National University of Singapore (NUS).</description>
+      <link>https://www.news-medical.net/news/20201030/New-process-converts-crustacean-shells-and-wood-waste-into-nutritional-supplements.aspx</link>
+      <comments>https://www.news-medical.net/news/20201030/New-process-converts-crustacean-shells-and-wood-waste-into-nutritional-supplements.aspx#comment</comments>
+      <guid>https://www.news-medical.net/post.aspx?id=8e50d16b-77a1-4617-8f77-964e09c5fbb6</guid>
+      <pubDate>Fri, 30 Oct 2020 02:36:00 -0500</pubDate>
+      <media:content url="https://www.news-medical.net/image.axd?picture=2015%2f7%2fimage_28620e4b6b0047f7ab9154b41d739db1-620x480.jpg" type="image/jpeg" expression="full" width="620" height="480">
+        <media:description><![CDATA[New process converts crustacean shells and wood waste into nutritional supplements]]></media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Study finds no association between leisure activities and lower dementia risk</title>
+      <description>Studies have suggested that taking part in leisure activities such as playing cards or gardening may be associated with a lower risk of developing dementia.</description>
+      <link>https://www.news-medical.net/news/20201028/Study-finds-no-association-between-leisure-activities-and-lower-dementia-risk.aspx</link>
+      <comments>https://www.news-medical.net/news/20201028/Study-finds-no-association-between-leisure-activities-and-lower-dementia-risk.aspx#comment</comments>
+      <guid>https://www.news-medical.net/post.aspx?id=339081f4-ea0d-4c44-b5f9-aa11330b510d</guid>
+      <pubDate>Wed, 28 Oct 2020 22:21:48 -0500</pubDate>
+      <media:content url="https://www.news-medical.net/image.axd?picture=2014%2f7%2fDementia-620x480.jpg" type="image/jpeg" expression="full" width="620" height="480">
+        <media:description><![CDATA[Study finds no association between leisure activities and lower dementia risk]]></media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Antiseizure drug use during pregnancy linked with double the risk of having children with autism</title>
+      <description>Women with epilepsy who take the antiseizure drug valproic acid while pregnant are at more than double the risk of having children with autism spectrum disorder and nearly double the risk of having children with attention deficit hyperactivity disorder (ADHD), according to a study in the October 28, 2020, online issue of Neurology, the medical journal of the American Academy of Neurology.</description>
+      <link>https://www.news-medical.net/news/20201028/Antiseizure-drug-use-during-pregnancy-linked-with-double-the-risk-of-having-children-with-autism.aspx</link>
+      <comments>https://www.news-medical.net/news/20201028/Antiseizure-drug-use-during-pregnancy-linked-with-double-the-risk-of-having-children-with-autism.aspx#comment</comments>
+      <guid>https://www.news-medical.net/post.aspx?id=a4471515-afe2-451d-bbcf-986434c850dc</guid>
+      <pubDate>Wed, 28 Oct 2020 22:14:23 -0500</pubDate>
+      <media:content url="https://www.news-medical.net/image.axd?picture=2014%2f6%2fPregnancy-620x480.jpg" type="image/jpeg" expression="full" width="620" height="480">
+        <media:description><![CDATA[Antiseizure drug use during pregnancy linked with double the risk of having children with autism]]></media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Mayo clinic researchers develop a potential test for Machado-Joseph disease</title>
+      <description>Mayo Clinic researchers, along with national and global collaborators, have developed a potential test for Machado-Joseph disease, or spinocerebellar ataxia type 3 (SCA3) ? a disease that has no cure.</description>
+      <link>https://www.news-medical.net/news/20201022/Mayo-clinic-researchers-develop-a-potential-test-for-Machado-Joseph-disease.aspx</link>
+      <comments>https://www.news-medical.net/news/20201022/Mayo-clinic-researchers-develop-a-potential-test-for-Machado-Joseph-disease.aspx#comment</comments>
+      <guid>https://www.news-medical.net/post.aspx?id=5738cd99-8036-4e4e-9203-4f44e32fd09b</guid>
+      <pubDate>Thu, 22 Oct 2020 01:29:07 -0500</pubDate>
+      <media:content url="https://www.news-medical.net/image.axd?picture=2014%2f7%2f92036744-620x480.jpg" type="image/jpeg" expression="full" width="620" height="480">
+        <media:description><![CDATA[Mayo clinic researchers develop a potential test for Machado-Joseph disease]]></media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Simple skin test can accurately identify Parkinson's disease, research shows</title>
+      <description>New research shows a simple skin test can accurately identify Parkinson's disease, demonstrating for the first time the feasibility of the method.</description>
+      <link>https://www.news-medical.net/news/20201021/Simple-skin-test-can-accurately-identify-Parkinsons-disease-research-shows.aspx</link>
+      <comments>https://www.news-medical.net/news/20201021/Simple-skin-test-can-accurately-identify-Parkinsons-disease-research-shows.aspx#comment</comments>
+      <guid>https://www.news-medical.net/post.aspx?id=0a176905-7be9-440b-8aab-108cfc21efe4</guid>
+      <pubDate>Wed, 21 Oct 2020 22:22:07 -0500</pubDate>
+      <media:content url="https://www.news-medical.net/image.axd?picture=2016%2f6%2fChem_Lab_c618f8c3be2845828afd242b15eaaa94-620x480.jpg" type="image/jpeg" expression="full" width="620" height="480">
+        <media:description><![CDATA[Simple skin test can accurately identify Parkinson's disease, research shows]]></media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Gut hormone found to be key regulator of new nerve cells in the adult brain</title>
+      <description>A gut hormone, ghrelin, is a key regulator of new nerve cells in the adult brain, a Swansea-led research team has discovered. It could help pave the way for new drugs to treat dementia in patients with Parkinson's Disease.</description>
+      <link>https://www.news-medical.net/news/20201021/Gut-hormone-found-to-be-key-regulator-of-new-nerve-cells-in-the-adult-brain.aspx</link>
+      <comments>https://www.news-medical.net/news/20201021/Gut-hormone-found-to-be-key-regulator-of-new-nerve-cells-in-the-adult-brain.aspx#comment</comments>
+      <guid>https://www.news-medical.net/post.aspx?id=dc7b8f99-c4a2-4521-9e7f-a34a3325c4ac</guid>
+      <pubDate>Wed, 21 Oct 2020 20:06:38 -0500</pubDate>
+      <media:content url="https://www.news-medical.net/image.axd?picture=2018%2f7%2fNeural_network_%2c_Brain_cells_%2c_Human_nervous_system_%2c_Neurons_-_nobeastsofierce_A1_3232a264381c4aaf9ce43d1d68dcb9ae-620x480.jpg" type="image/jpeg" expression="full" width="620" height="480">
+        <media:description><![CDATA[Gut hormone found to be key regulator of new nerve cells in the adult brain]]></media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>NAM announces winners of the inaugural round of Healthy Longevity Catalyst Awards</title>
+      <description>​The National Academy of Medicine, together with seven global collaborators representing nearly 50 countries and territories, today announced the winners of the inaugural round of Healthy Longevity Catalyst Awards.</description>
+      <link>https://www.news-medical.net/news/20201016/NAM-announces-winners-of-the-inaugural-round-of-Healthy-Longevity-Catalyst-Awards.aspx</link>
+      <comments>https://www.news-medical.net/news/20201016/NAM-announces-winners-of-the-inaugural-round-of-Healthy-Longevity-Catalyst-Awards.aspx#comment</comments>
+      <guid>https://www.news-medical.net/post.aspx?id=caee6e8c-7aaa-45c1-a88e-553a25f97bb6</guid>
+      <pubDate>Fri, 16 Oct 2020 15:48:00 -0500</pubDate>
+      <media:content url="https://www.news-medical.net/image.axd?picture=2014%2f7%2fNeurology-620x480.jpg" type="image/jpeg" expression="full" width="620" height="480">
+        <media:description><![CDATA[NAM announces winners of the inaugural round of Healthy Longevity Catalyst Awards]]></media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Anti-inflammatory drugs may hold the potential to alleviate Parkinson's disease, study suggests</title>
+      <description>Around 15% of Parkinson's disease cases are related to a known genetic background, out of which mutations in the Parkin and PINK1 genes are among the most frequent ones.</description>
+      <link>https://www.news-medical.net/news/20201014/Anti-inflammatory-drugs-may-hold-the-potential-to-alleviate-Parkinsons-disease-study-suggests.aspx</link>
+      <comments>https://www.news-medical.net/news/20201014/Anti-inflammatory-drugs-may-hold-the-potential-to-alleviate-Parkinsons-disease-study-suggests.aspx#comment</comments>
+      <guid>https://www.news-medical.net/post.aspx?id=1a79f78b-5680-4336-82dd-54e6151db59a</guid>
+      <pubDate>Wed, 14 Oct 2020 19:51:00 -0500</pubDate>
+      <media:content url="https://www.news-medical.net/image.axd?picture=2014%2f7%2fDNA_Genetics-620x480.jpg" type="image/jpeg" expression="full" width="620" height="480">
+        <media:description><![CDATA[Anti-inflammatory drugs may hold the potential to alleviate Parkinson's disease, study suggests]]></media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Two well-known neurochemicals found to be involved in sub-second perception, cognition</title>
+      <description>In first-of-their-kind observations in the human brain, an international team of researchers has revealed two well-known neurochemicals -; dopamine and serotonin -; are at work at sub-second speeds to shape how people perceive the world and take action based on their perception.</description>
+      <link>https://www.news-medical.net/news/20201012/Two-well-known-neurochemicals-found-to-be-involved-in-sub-second-perception-cognition.aspx</link>
+      <comments>https://www.news-medical.net/news/20201012/Two-well-known-neurochemicals-found-to-be-involved-in-sub-second-perception-cognition.aspx#comment</comments>
+      <guid>https://www.news-medical.net/post.aspx?id=ece29526-dba3-4d7b-9f73-22d3756fe200</guid>
+      <pubDate>Mon, 12 Oct 2020 21:31:00 -0500</pubDate>
+      <media:content url="https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg" type="image/jpeg" expression="full" width="620" height="480">
+        <media:description><![CDATA[Two well-known neurochemicals found to be involved in sub-second perception, cognition]]></media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Dopamine and serotonin play role in perception and decision-making</title>
+      <description>Scientists at Wake Forest School of Medicine have recorded real time changes in dopamine and serotonin levels in the human brain that are involved with perception and decision-making.</description>
+      <link>https://www.news-medical.net/news/20201012/Dopamine-and-serotonin-play-role-in-perception-and-decision-making.aspx</link>
+      <comments>https://www.news-medical.net/news/20201012/Dopamine-and-serotonin-play-role-in-perception-and-decision-making.aspx#comment</comments>
+      <guid>https://www.news-medical.net/post.aspx?id=e26a64fa-2d2e-4e9b-b7b4-f68363fb7cab</guid>
+      <pubDate>Mon, 12 Oct 2020 15:14:00 -0500</pubDate>
+      <media:content url="https://www.news-medical.net/image.axd?picture=2014%2f7%2fSerotonin-620x480.jpg" type="image/jpeg" expression="full" width="620" height="480">
+        <media:description><![CDATA[Dopamine and serotonin play role in perception and decision-making]]></media:description>
+      </media:content>
+    </item>
+  </channel>
+</rss>
